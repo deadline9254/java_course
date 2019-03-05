@@ -10,7 +10,7 @@ public class lesson2_1
 				}
 			else if (numberTwo!=0) 
 				{
-					System.out.println("Resul devision "+ ((Float.valueOf(numberOne)/Float.valueOf(numberTwo))));
+					System.out.println("Resul devision "+ ((Float.valueOf(numberOne)/(numberTwo))));
 				}
 		if(numberOne>numberTwo) 
 				{
